@@ -47,10 +47,8 @@ Miru extensions repository | [Miru App Download](https://github.com/miru-project
 | libvio | libvio.app | v0.0.3 | hualiong | zh-cn | bangumi | [Source Code](https://github.com/miru-project/repo/blob/main/repo/libvio.app.js) |
 | LayarKaca | lk21official | v0.0.2 | OshekharO | id | bangumi | [Source Code](https://github.com/miru-project/repo/blob/main/repo/lk21official.js) |
 | 量子资源 | lzzy.tv | v0.0.2 | hualiong | zh-cn | bangumi | [Source Code](https://github.com/miru-project/repo/blob/main/repo/lzzy.tv.js) |
-| 漫画柜 | manhuagui.com | v0.0.3 | appdevelpo | zh-cn | manga | [Source Code](https://github.com/miru-project/repo/blob/main/repo/manhuagui.com.js) |
 | Mikanani | me.mikanani | v0.0.4 | MiaoMint | zh-cn | bangumi | [Source Code](https://github.com/miru-project/repo/blob/main/repo/me.mikanani.js) |
 | Enime | moe.enime | v0.0.5 | MiaoMint | all | bangumi | [Source Code](https://github.com/miru-project/repo/blob/main/repo/moe.enime.js) |
-| 轻小说文库 | moe.wol.wenku8 | v0.0.1 | NPGamma | zh-cn | fikushon | [Source Code](https://github.com/miru-project/repo/blob/main/repo/moe.wol.wenku8.js) |
 | MonosChinos | monoschinos | v0.0.1 | OshekharO | es | bangumi | [Source Code](https://github.com/miru-project/repo/blob/main/repo/monoschinos.js) |
 | Movieku | movieku.lol | v0.0.3 | appdevelpo | id | bangumi | [Source Code](https://github.com/miru-project/repo/blob/main/repo/movieku.lol.js) |
 | YTS.mx | mx.yts | v0.0.6 | MiaoMint | all | bangumi | [Source Code](https://github.com/miru-project/repo/blob/main/repo/mx.yts.js) |

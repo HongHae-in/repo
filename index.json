@@ -693,19 +693,6 @@
   "webSite": "https://lzizy.com"
  },
  {
-  "author": "appdevelpo",
-  "icon": "https://www.manhuagui.com/favicon.ico",
-  "lang": "zh-cn",
-  "license": "MIT",
-  "name": "漫画柜",
-  "nsfw": "false",
-  "package": "manhuagui.com",
-  "type": "manga",
-  "url": "manhuagui.com.js",
-  "version": "v0.0.3",
-  "webSite": "https://api-manhuagui.aoihosizora.top/v1"
- },
- {
   "author": "MiaoMint",
   "description": "蜜柑计划：新一代的动漫下载站",
   "icon": "https://mikanani.me/images/mikan-pic.png",
@@ -743,18 +730,6 @@
   "url": "moe.enime.js",
   "version": "v0.0.5",
   "webSite": "https://api.enime.moe"
- },
- {
-  "author": "NPGamma",
-  "icon": "https://www.wenku8.net/favicon.ico",
-  "lang": "zh-cn",
-  "license": "AGPL-3.0",
-  "name": "轻小说文库",
-  "package": "moe.wol.wenku8",
-  "type": "fikushon",
-  "url": "moe.wol.wenku8.js",
-  "version": "v0.0.1",
-  "webSite": "https://www.wenku8.net"
  },
  {
   "author": "OshekharO",
