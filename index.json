@@ -1094,18 +1094,6 @@
  },
  {
   "author": "OshekharO",
-  "icon": "https://teamxnovel.com/assets/images/favicon.png",
-  "lang": "ar",
-  "license": "MIT",
-  "name": "TeamxNovel",
-  "package": "teamxnovel.com",
-  "type": "manga",
-  "url": "teamxnovel.com.js",
-  "version": "v0.0.1",
-  "webSite": "https://teamxnovel.com"
- },
- {
-  "author": "OshekharO",
   "icon": "https://pbs.twimg.com/profile_images/1243623122089041920/gVZIvphd_400x400.jpg",
   "lang": "all",
   "license": "MIT",
