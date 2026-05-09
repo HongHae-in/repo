@@ -400,18 +400,6 @@
   "webSite": "https://111.90.140.97"
  },
  {
-  "author": "bethro",
-  "icon": "https://flamecomics.com/wp-content/uploads/2021/03/cropped-fds-1-192x192.png",
-  "lang": "en",
-  "license": "MIT",
-  "name": "FlameComics",
-  "package": "flamecomics.com",
-  "type": "manga",
-  "url": "flamecomics.com.js",
-  "version": "v0.0.1",
-  "webSite": "https://flamecomics.com/"
- },
- {
   "author": "OshekharO",
   "icon": "https://flixhq.vip/wp-content/uploads/2024/04/flixhq-logo-2.png",
   "lang": "en",
