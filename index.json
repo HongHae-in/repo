@@ -192,19 +192,6 @@
   "webSite": "https://asuracomic.net"
  },
  {
-  "author": "appdevelpo",
-  "icon": "https://www.baozimh.com/favicon.ico",
-  "lang": "zh",
-  "license": "MIT",
-  "name": "包子漫画",
-  "nsfw": "false",
-  "package": "baozimh.com",
-  "type": "manga",
-  "url": "baozimh.com.js",
-  "version": "v0.0.2",
-  "webSite": "https://www.baozimh.com"
- },
- {
   "author": "bethro",
   "icon": "https://bato.to/amsta/img/batoto/favicon.ico?v0",
   "lang": "all",
