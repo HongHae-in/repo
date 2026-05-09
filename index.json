@@ -192,18 +192,6 @@
   "webSite": "https://asuracomic.net"
  },
  {
-  "author": "bethro",
-  "icon": "https://bato.to/amsta/img/batoto/favicon.ico?v0",
-  "lang": "all",
-  "license": "MIT",
-  "name": "Bato",
-  "package": "bato.to",
-  "type": "manga",
-  "url": "bato.to.js",
-  "version": "v0.0.2",
-  "webSite": "https://bato.to"
- },
- {
   "author": "anishi7",
   "icon": "https://bestlightnovel.com/themes/home/images/favicon.png",
   "lang": "en",
