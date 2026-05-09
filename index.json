@@ -630,18 +630,6 @@
   "webSite": "https://kisskh.co"
  },
  {
-  "author": "bethro",
-  "icon": "https://komikcast.lol/wp-content/uploads/2021/02/cropped-logo-kc-180x180.png",
-  "lang": "all",
-  "license": "MIT",
-  "name": "Komikcast",
-  "package": "komikcast.lol",
-  "type": "manga",
-  "url": "komikcast.lol.js",
-  "version": "v0.0.1",
-  "webSite": "https://komikcast.lol"
- },
- {
   "author": "Nazz",
   "icon": "https://komiku.com/wp-content/uploads/2022/03/cropped-ico-komiku-180x180.jpg",
   "lang": "id",
