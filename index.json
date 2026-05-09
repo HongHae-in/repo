@@ -630,20 +630,6 @@
   "webSite": "https://kisskh.co"
  },
  {
-  "author": "ZenZEE",
-  "icon": "https://kuromanhua.xyz/wp-content/uploads/Tanpa-Judul.png",
-  "lang": "id",
-  "license": "MIT",
-  "name": "Kuromanhua.xyz",
-  "nsfw": "false",
-  "package": "komiku.com",
-  "tags": "indonesia",
-  "type": "manga",
-  "url": "kuromanhua.xyz.js",
-  "version": "v0.0.1",
-  "webSite": "https://kuromanhua.xyz"
- },
- {
   "author": "hualiong",
   "icon": "https://lyzy8.top/upload/site/20240405-1/0abc49d6b935f5ff17488568f99d2d52.png",
   "lang": "zh-cn",
