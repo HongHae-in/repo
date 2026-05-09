@@ -180,19 +180,6 @@
   "webSite": "https://arabsama.net"
  },
  {
-  "author": "anishi7",
-  "icon": "https://bestlightnovel.com/themes/home/images/favicon.png",
-  "lang": "en",
-  "license": "MIT",
-  "name": "BestLightNovel",
-  "nsfw": "false",
-  "package": "best.light.novel",
-  "type": "fikushon",
-  "url": "best.light.novel.js",
-  "version": "v0.0.1",
-  "webSite": "https://bestlightnovel.com"
- },
- {
   "author": "jason",
   "icon": "https://bfzy.tv/favicon.ico",
   "lang": "zh-cn",
