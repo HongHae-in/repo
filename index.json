@@ -1067,18 +1067,6 @@
   "webSite": "https://www.supercartoons.net"
  },
  {
-  "author": "bethro",
-  "icon": "https://swatmanhua.com/images/logo_light.png",
-  "lang": "ar",
-  "license": "MIT",
-  "name": "swatmanhua",
-  "package": "swatmanhua.com",
-  "type": "manga",
-  "url": "swatmanhua.com.js",
-  "version": "v0.0.1",
-  "webSite": "https://swatmanhua.com"
- },
- {
   "author": "appdevelpo",
   "icon": "https://tamilyogi.plus/wp-content/uploads/2021/06/ty.png",
   "lang": "hi-ta",
