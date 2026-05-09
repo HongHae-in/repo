@@ -1105,18 +1105,6 @@
   "webSite": "https://api.themoviedb.org/3"
  },
  {
-  "author": "bethro",
-  "icon": "https://i.ibb.co/XtNNVVT/AR-TH-WEB.png",
-  "lang": "ar",
-  "license": "MIT",
-  "name": "thunderscans",
-  "package": "thunderscans.com",
-  "type": "manga",
-  "url": "thunderscans.com.js",
-  "version": "v0.0.1",
-  "webSite": "https://thunderscans.com"
- },
- {
   "author": "hualiong",
   "icon": "https://api.tiankongapi.com/template/v10012/images/logo.jpg",
   "lang": "zh-cn",
