@@ -73,9 +73,7 @@ Miru extensions repository | [Miru App Download](https://github.com/miru-project
 | Unimay | unimay.media | v0.0.1 | CakesTwix | uk | bangumi | [Source Code](https://github.com/miru-project/repo/blob/main/repo/unimay.media.js) |
 | 影视集合 | vod.api.json.collection | v0.0.3 | Horis | zh-cn | bangumi | [Source Code](https://github.com/miru-project/repo/blob/main/repo/vod.api.json.collection.js) |
 | 八戒影视 | vod.api.xml.bajie | v0.0.1 | Horis | zh-cn | bangumi | [Source Code](https://github.com/miru-project/repo/blob/main/repo/vod.api.xml.bajie.js) |
-| weebcentral | weebcentral.com | v0.0.2 | bethro | en | manga | [Source Code](https://github.com/miru-project/repo/blob/main/repo/weebcentral.com.js) |
 | 风车动漫 | windmill | v0.0.1 | Monster | zh-cn | bangumi | [Source Code](https://github.com/miru-project/repo/blob/main/repo/windmill.js) |
-| Wnmtl | wnmtl.org | v0.0.1 | OshekharO | en | fikushon | [Source Code](https://github.com/miru-project/repo/blob/main/repo/wnmtl.org.js) |
 | 卧龙资源 | wolongzyw.com | v0.0.2 | hualiong | zh-cn | bangumi | [Source Code](https://github.com/miru-project/repo/blob/main/repo/wolongzyw.com.js) |
 | WTR-LAB | wtr-lab.com | v0.0.1 | OshekharO | en | fikushon | [Source Code](https://github.com/miru-project/repo/blob/main/repo/wtr-lab.com.js) |
 | 无尽资源网 | wujinzy.com | v0.0.2 | hualiong | zh-cn | bangumi | [Source Code](https://github.com/miru-project/repo/blob/main/repo/wujinzy.com.js) |
