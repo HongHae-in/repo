@@ -1145,18 +1145,6 @@
  },
  {
   "author": "OshekharO",
-  "icon": "https://st.nettruyenus.com/data/logos/logo-nettruyen.png",
-  "lang": "vi",
-  "license": "MIT",
-  "name": "NetTruyen",
-  "package": "truyen.net",
-  "type": "manga",
-  "url": "truyen.net.js",
-  "version": "v0.0.5",
-  "webSite": "https://comics-api.vercel.app"
- },
- {
-  "author": "OshekharO",
   "icon": "https://www2.turkish123.org/wp-content/uploads/favicon.png",
   "lang": "tr",
   "license": "MIT",
