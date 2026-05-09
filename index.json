@@ -693,30 +693,6 @@
   "webSite": "https://lzizy.com"
  },
  {
-  "author": "OshekharO",
-  "icon": "https://mangacross.jp/favicon.ico",
-  "lang": "jp",
-  "license": "MIT",
-  "name": "マンガクロス",
-  "package": "mangacross.jp",
-  "type": "manga",
-  "url": "mangacross.jp.js",
-  "version": "v0.0.1",
-  "webSite": "https://mangacross.jp"
- },
- {
-  "author": "bethro",
-  "icon": "https://mangadex.org/img/avatar.png",
-  "lang": "all",
-  "license": "MIT",
-  "name": "MangaDex",
-  "package": "mangadex.org",
-  "type": "manga",
-  "url": "mangadex.org.js",
-  "version": "v0.0.3",
-  "webSite": "https://api.mangadex.org"
- },
- {
   "author": "shashankx86",
   "icon": "https://mangakatana.com/static/img/fav.png",
   "lang": "en",
