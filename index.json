@@ -1409,19 +1409,6 @@
   "webSite": "https://yugenanime.tv"
  },
  {
-  "author": "OshekharO",
-  "icon": "https://yurineko.net/img/logo-footer.png",
-  "lang": "vi",
-  "license": "MIT",
-  "name": "YuriNeko",
-  "nsfw": "false",
-  "package": "yurineko.net",
-  "type": "manga",
-  "url": "yurineko.net.js",
-  "version": "v0.0.1",
-  "webSite": "https://api.yurineko.net"
- },
- {
   "author": "hualiong",
   "icon": "https://yutuzy4.com/template/demo/img/logo.png",
   "lang": "zh-cn",
@@ -1433,18 +1420,6 @@
   "url": "yutuzy.com.js",
   "version": "v0.0.2",
   "webSite": "https://yutuzy.com"
- },
- {
-  "author": "hualiong",
-  "icon": "https://www.yymanhua.com/favicon.ico",
-  "lang": "zh-cn",
-  "license": "MIT",
-  "name": "YY漫画",
-  "package": "yymanhua.com",
-  "type": "manga",
-  "url": "yymanhua.com.js",
-  "version": "v0.0.4",
-  "webSite": "https://www.yymanhua.com"
  },
  {
   "author": "hualiong",
