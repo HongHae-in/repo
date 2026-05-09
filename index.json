@@ -630,20 +630,6 @@
   "webSite": "https://kisskh.co"
  },
  {
-  "author": "Nazz",
-  "icon": "https://komiku.com/wp-content/uploads/2022/03/cropped-ico-komiku-180x180.jpg",
-  "lang": "id",
-  "license": "MIT",
-  "name": "Komiku.com",
-  "nsfw": "false",
-  "package": "komiku.com",
-  "tags": "indonesia",
-  "type": "manga",
-  "url": "komiku.com.js",
-  "version": "v0.0.1",
-  "webSite": "https://komiku.com"
- },
- {
   "author": "ZenZEE",
   "icon": "https://kuromanhua.xyz/wp-content/uploads/Tanpa-Judul.png",
   "lang": "id",
