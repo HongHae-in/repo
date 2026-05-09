@@ -693,18 +693,6 @@
   "webSite": "https://lzizy.com"
  },
  {
-  "author": "shashankx86",
-  "icon": "https://mangakatana.com/static/img/fav.png",
-  "lang": "en",
-  "license": "MIT",
-  "name": "Mangakatana",
-  "package": "mangakatana.com",
-  "type": "manga",
-  "url": "mangakatana.com.js",
-  "version": "v0.0.1",
-  "webSite": "https://mangakatana.com/"
- },
- {
   "author": "OshekharO",
   "icon": "https://mangakomi.io/wp-content/uploads/2019/12/v-I-BhKu.jpeg",
   "lang": "en",

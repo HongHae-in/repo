@@ -47,7 +47,6 @@ Miru extensions repository | [Miru App Download](https://github.com/miru-project
 | libvio | libvio.app | v0.0.3 | hualiong | zh-cn | bangumi | [Source Code](https://github.com/miru-project/repo/blob/main/repo/libvio.app.js) |
 | LayarKaca | lk21official | v0.0.2 | OshekharO | id | bangumi | [Source Code](https://github.com/miru-project/repo/blob/main/repo/lk21official.js) |
 | 量子资源 | lzzy.tv | v0.0.2 | hualiong | zh-cn | bangumi | [Source Code](https://github.com/miru-project/repo/blob/main/repo/lzzy.tv.js) |
-| Mangakatana | mangakatana.com | v0.0.1 | shashankx86 | en | manga | [Source Code](https://github.com/miru-project/repo/blob/main/repo/mangakatana.com.js) |
 | MangaKomi | mangakomi | v0.0.1 | OshekharO | en | manga | [Source Code](https://github.com/miru-project/repo/blob/main/repo/mangakomi.js) |
 | Manganato | manganato | v0.0.1 | OshekharO | en | manga | [Source Code](https://github.com/miru-project/repo/blob/main/repo/manganato.js) |
 | 漫画柜 | manhuagui.com | v0.0.3 | appdevelpo | zh-cn | manga | [Source Code](https://github.com/miru-project/repo/blob/main/repo/manhuagui.com.js) |
