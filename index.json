@@ -233,18 +233,6 @@
   "webSite": "https://manga18.club"
  },
  {
-  "author": "MiaoMint",
-  "icon": "https://www.dmzj.com/_nuxt/logo_dmzj.1c94014a.png",
-  "lang": "zh-cn",
-  "license": "MIT",
-  "name": "动漫之家",
-  "package": "com.dmzj.www",
-  "type": "manga",
-  "url": "com.dmzj.www.js",
-  "version": "v0.0.2",
-  "webSite": "https://www.dmzj.com"
- },
- {
   "author": "vvsolo",
   "icon": "http://mxsmh01.top/static/images/favicon.ico",
   "lang": "zh-tw",
