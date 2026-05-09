@@ -630,19 +630,6 @@
   "webSite": "https://kisskh.co"
  },
  {
-  "author": "hualiong",
-  "icon": "https://komiic.com/favicon.ico",
-  "lang": "zh-tw",
-  "license": "MIT",
-  "name": "Komiic漫畫",
-  "nsfw": "false",
-  "package": "komiic.com",
-  "type": "manga",
-  "url": "komiic.com.js",
-  "version": "v0.0.2",
-  "webSite": "https://komiic.com"
- },
- {
   "author": "bethro",
   "icon": "https://komikcast.lol/wp-content/uploads/2021/02/cropped-logo-kc-180x180.png",
   "lang": "all",
