@@ -1267,18 +1267,6 @@
   "webSite": "https://wolongzyw.com"
  },
  {
-  "author": "OshekharO",
-  "icon": "https://wtr-lab.com/images/favicon.png",
-  "lang": "en",
-  "license": "MIT",
-  "name": "WTR-LAB",
-  "package": "wtr-lab.com",
-  "type": "fikushon",
-  "url": "wtr-lab.com.js",
-  "version": "v0.0.1",
-  "webSite": "https://wtr-lab.com"
- },
- {
   "author": "hualiong",
   "icon": "https://wujinzy.com/template/ziyuan2/images/logo.jpg",
   "lang": "zh-cn",
