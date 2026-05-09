@@ -693,30 +693,6 @@
   "webSite": "https://lzizy.com"
  },
  {
-  "author": "bethro",
-  "icon": "https://mangaclash.com/wp-content/uploads/2020/03/cropped-22.jpg",
-  "lang": "en",
-  "license": "MIT",
-  "name": "MangaClash",
-  "package": "mangaclash.com",
-  "type": "manga",
-  "url": "mangaclash.com.js",
-  "version": "v0.0.1",
-  "webSite": "https://mangaclash.com"
- },
- {
-  "author": "hualiong",
-  "icon": "https://tse1-mm.cn.bing.net/th/id/OIP-C.KCerrBL9dq9e8ydGaiyy2QAAAA",
-  "lang": "zh-cn",
-  "license": "MIT",
-  "name": "拷贝漫画",
-  "package": "mangacopy.com",
-  "type": "manga",
-  "url": "mangacopy.com.js",
-  "version": "v0.0.4",
-  "webSite": "https://www.mangacopy.com"
- },
- {
   "author": "OshekharO",
   "icon": "https://mangacross.jp/favicon.ico",
   "lang": "jp",
