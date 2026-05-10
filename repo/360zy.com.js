@@ -1,6 +1,6 @@
 // ==MiruExtension==
 // @name         360资源
-// @version      v0.0.2
+// @version      v0.0.3
 // @author       hualiong
 // @lang         zh-cn
 // @license      MIT
@@ -17,7 +17,6 @@ export default class extends Extension {
     primary: [
       "360zy.com",
       "360zy.net",
-      "360zy.top",
       "360zy.tv",
     ],
     alternate: [
