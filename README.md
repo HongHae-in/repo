@@ -7,7 +7,7 @@ Miru extensions repository | [Miru App Download](https://github.com/miru-project
 |  Name   | Package | Version | Author | Language | Type | Source |
 |  ----   | ---- | --- | ---  | ---  | --- | --- |
 | 345movie | 345movie.net | v0.0.3 | qizaru | all | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/345movie.net.js) |
-| 360资源 | 360zy.com | v0.0.2 | hualiong | zh-cn | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/360zy.com.js) |
+| 360资源 | 360zy.com | v0.0.3 | hualiong | zh-cn | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/360zy.com.js) |
 | 9Anime | 9animetv.to | v0.0.3 | appdevelpo | en | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/9animetv.to.js) |
 | AGE动漫 | agedm.org | v0.0.1 | appdevelpo | zh-cn | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/agedm.org.js) |
 | AniLiberty | aniliberty | v0.0.9 | (viridius-hub) | ru | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/aniliberty.js) |
