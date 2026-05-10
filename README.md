@@ -12,13 +12,13 @@ Miru extensions repository | [Miru App Download](https://github.com/miru-project
 | AGE动漫 | agedm.org | v0.0.1 | appdevelpo | zh-cn | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/agedm.org.js) |
 | AniLiberty | aniliberty | v0.0.9 | (viridius-hub) | ru | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/aniliberty.js) |
 | AnimeFlv | anime.flv | v0.0.2 | (koikiss-dev) | es | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/anime.flv.js) |
-| girigiri爱动漫 | anime.girigirilove.com | v0.0.3 | appdevelpo | zh | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/anime.girigirilove.com.js) |
 | Animeazu | animeazu.com | v0.0.1 | JerukPurut404 | pr | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/animeazu.com.js) |
 | Animepahe | animepahe.ru | v0.0.3 | appdevelpo | en | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/animepahe.ru.js) |
 | Animeworld | animeworld | v0.0.1 | Nazz | it | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/animeworld.js) |
 | 音悦台MTV | api.yinyuetai | v0.0.2 | vvsolo | zh | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/api.yinyuetai.js) |
 | Arabsama | arabsama.net | v0.0.1 | JerukPurut404 | ar | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/arabsama.net.js) |
 | 暴风资源[高清无水印] | bfzy.tv | v0.0.2 | jason | zh-cn | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/bfzy.tv.js) |
+| girigiri爱动漫 | bgm.girigirilove.com | v0.0.4 | appdevelpo | zh | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/bgm.girigirilove.com.js) |
 | MyIPTV | client.iptv | v0.0.6 | vvsolo | all | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/client.iptv.js) |
 | 欧乐影院 | com.olevod.www | v0.0.1 | MiaoMint | zh-cn | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/com.olevod.www.js) |
 | 咕咕影视 | cooing.cc | v0.0.4 | MiaoMint | zh-cn | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/cooing.cc.js) |
