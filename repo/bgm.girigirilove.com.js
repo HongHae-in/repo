@@ -93,10 +93,20 @@ export default class extends Extension {
     return url
   }
 
+  async createFilter(filter) {
+    return {};
+  }
+
   async latest(page) {
     const res = await this.request(`/show/2--------${page}---/`);
     // await this.get_filter(res);
-    const bsxListArea = res.match(/class="flex wrap border-box public-r"[\s\S]+<\/div><\/div><\/div><\/div>/)[0];
+    const bsxListAreaMatch = res.match(/class="flex wrap border-box public-r"[\s\S]+<\/div><\/div><\/div><\/div>/);
+    
+    if (!bsxListAreaMatch) {
+      return [];
+    }
+    
+    const bsxListArea = bsxListAreaMatch[0];
     const bsxList = bsxListArea.match(/"public-list-box public-pic-b \[swiper\]".+?<\/div>/g);
     const videos = [];
     //   console.log(bsxList[0]);
