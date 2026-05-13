@@ -15,7 +15,6 @@ Miru extensions repository | [Miru App Download](https://github.com/miru-project
 | 欧乐影院 | com.olevod.www | v0.0.1 | MiaoMint | zh-cn | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/com.olevod.www.js) |
 | 次元城动漫 | cycanime.com | v0.1.2 | hualiong | zh-cn | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/cycanime.com.js) |
 | media.ccc.de | de.ccc.media | v0.0.1 | Weiske | en | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/de.ccc.media.js) |
-| DramaCool | dramacool.pa | v0.0.4 | OshekharO | en | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/dramacool.pa.js) |
 | 非凡资源 | ffzy.tv | v0.0.2 | hualiong | zh-cn | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/ffzy.tv.js) |
 | FilmyCab | filmycab | v0.0.2 | OshekharO | hi | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/filmycab.js) |
 | FilmyPunjab | filmypunjab.com | v0.0.3 | appdevelpo | hi | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/filmypunjab.com.js) |
