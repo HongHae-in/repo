@@ -1,13 +1,13 @@
 // ==MiruExtension==
 // @name         奥斯卡资源站
-// @version      v0.0.2
+// @version      v0.0.3
 // @author       hualiong
 // @lang         zh-cn
 // @license      MIT
 // @icon         https://aosikazy10.com/favicon.ico
 // @package      aosikazy.com
 // @type         bangumi
-// @webSite      https://aosikazy.vip
+// @webSite      https://aosikazy.com
 // @nsfw         true
 // ==/MiruExtension==
 export default class extends Extension {
