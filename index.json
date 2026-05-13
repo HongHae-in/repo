@@ -158,18 +158,6 @@
   "webSite": "https://cj.ffzyapi.com"
  },
  {
-  "author": "OshekharO",
-  "icon": "https://flixhq.vip/wp-content/uploads/2024/04/flixhq-logo-2.png",
-  "lang": "en",
-  "license": "MIT",
-  "name": "FlixHQ",
-  "package": "flixhq",
-  "type": "bangumi",
-  "url": "flixhq.js",
-  "version": "v0.0.1",
-  "webSite": "https://consumet8.vercel.app/movies/flixhq"
- },
- {
   "author": "bachig26",
   "icon": "https://gakiarchives.com/images/logo.png",
   "lang": "en",
