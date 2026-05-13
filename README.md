@@ -21,7 +21,6 @@ Miru extensions repository | [Miru App Download](https://github.com/miru-project
 | Invidious | invidious.io | v0.0.4 | OshekharO | all | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/invidious.io.js) |
 | 极速资源 | jisuzy.com | v0.0.2 | hualiong | zh-cn | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/jisuzy.com.js) |
 | Kisskh | kisskh.co | v0.0.3 | OshekharO | all | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/kisskh.co.js) |
-| Letv影院 | letv.im | v0.0.1 | appdevelpo | zh | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/letv.im.js) |
 | libvio | libvio.app | v0.0.3 | hualiong | zh-cn | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/libvio.app.js) |
 | LayarKaca | lk21official | v0.0.2 | OshekharO | id | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/lk21official.js) |
 | 量子资源 | lzzy.tv | v0.0.2 | hualiong | zh-cn | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/lzzy.tv.js) |
