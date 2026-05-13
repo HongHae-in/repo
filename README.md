@@ -9,7 +9,7 @@ Miru extensions repository | [Miru App Download](https://github.com/miru-project
 | 360资源 | 360zy.com | v0.0.3 | hualiong | zh-cn | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/360zy.com.js) |
 | AnimeFlv | anime.flv | v0.0.2 | (koikiss-dev) | es | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/anime.flv.js) |
 | Animeworld | animeworld | v0.0.1 | Nazz | it | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/animeworld.js) |
-| 音悦台MTV | api.yinyuetai | v0.0.2 | vvsolo | zh | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/api.yinyuetai.js) |
+| 音悦台MTV | api.yinyuetai | v0.0.3 | vvsolo | zh | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/api.yinyuetai.js) |
 | Arabsama | arabsama.net | v0.0.1 | JerukPurut404 | ar | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/arabsama.net.js) |
 | 暴风资源[高清无水印] | bfzy.tv | v0.0.2 | jason | zh-cn | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/bfzy.tv.js) |
 | girigiri爱动漫 | bgm.girigirilove.com | v0.0.4 | appdevelpo | zh | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/bgm.girigirilove.com.js) |

@@ -54,7 +54,7 @@
  },
  {
   "author": "vvsolo",
-  "icon": "https://www.yinyuetai.com/images/favicon.ico",
+  "icon": "https://webcdn.yinyuetai.com/_nuxt/logo.6c139cfb.png",
   "lang": "zh",
   "license": "MIT",
   "name": "音悦台MTV",
@@ -62,8 +62,8 @@
   "package": "api.yinyuetai",
   "type": "bangumi",
   "url": "api.yinyuetai.js",
-  "version": "v0.0.2",
-  "webSite": "https://video-api.yinyuetai.com"
+  "version": "v0.0.3",
+  "webSite": "https://www.yinyuetai.com"
  },
  {
   "author": "JerukPurut404",
