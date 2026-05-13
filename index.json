@@ -183,20 +183,6 @@
   "webSite": "https://hanime1.me"
  },
  {
-  "author": "Nazz",
-  "icon": "https://vip.idlixofficial.net/wp-content/uploads/2020/06/idlix.png",
-  "lang": "id",
-  "license": "MIT",
-  "name": "IDLIX",
-  "nsfw": "false",
-  "package": "idlix",
-  "tags": "movie,tvseries,anime,english",
-  "type": "bangumi",
-  "url": "idlix.js",
-  "version": "v0.0.2",
-  "webSite": "https://vip.idlixofficial.net"
- },
- {
   "author": "hualiong",
   "icon": "https://ikunzy.org/favicon.ico",
   "lang": "zh-cn",
