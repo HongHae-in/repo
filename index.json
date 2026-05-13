@@ -183,18 +183,6 @@
   "webSite": "https://hanime1.me"
  },
  {
-  "author": "OshekharO",
-  "icon": "https://hianime.to/favicon.ico",
-  "lang": "en",
-  "license": "MIT",
-  "name": "HiAnime",
-  "package": "hianime.to",
-  "type": "bangumi",
-  "url": "hianime.to.js",
-  "version": "v0.0.8",
-  "webSite": "https://hianime.to"
- },
- {
   "author": "hualiong",
   "icon": "https://tse3-mm.cn.bing.net/th/id/OIP-C.PrZFaCYKWBtyufV16WIxhQBRBQ",
   "lang": "zh-cn",
