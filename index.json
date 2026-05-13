@@ -184,15 +184,15 @@
  },
  {
   "author": "hualiong",
-  "icon": "https://ikunzy.org/favicon.ico",
+  "icon": "http://ikunzy.com/logo.png",
   "lang": "zh-cn",
   "license": "MIT",
   "name": "iKun资源",
-  "nsfw": "true",
+  "nsfw": "false",
   "package": "ikunzy.com",
   "type": "bangumi",
   "url": "ikunzy.com.js",
-  "version": "v0.0.2",
+  "version": "v0.0.3",
   "webSite": "https://ikunzy.org"
  },
  {
