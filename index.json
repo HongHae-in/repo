@@ -26,18 +26,6 @@
   "webSite": "https://jimov-api.vercel.app/"
  },
  {
-  "author": "JerukPurut404",
-  "icon": "https://animeazu.com/wp-content/uploads/2023/08/dada.png",
-  "lang": "pr",
-  "license": "MIT",
-  "name": "Animeazu",
-  "package": "animeazu.com",
-  "type": "bangumi",
-  "url": "animeazu.com.js",
-  "version": "v0.0.1",
-  "webSite": "https://animeazu.com"
- },
- {
   "author": "appdevelpo",
   "icon": "https://animepahe.ru/web-app-manifest-512x512.png",
   "lang": "en",
