@@ -158,19 +158,6 @@
   "webSite": "https://cj.ffzyapi.com"
  },
  {
-  "author": "appdevelpo",
-  "icon": "https://gimy.su/favicon.ico",
-  "lang": "zh",
-  "license": "MIT",
-  "name": "gimy",
-  "nsfw": "false",
-  "package": "gimy.su",
-  "type": "bangumi",
-  "url": "gimy.su.js",
-  "version": "v0.0.2",
-  "webSite": "https://gimy.su"
- },
- {
   "author": "OshekharO",
   "icon": "https://ww9.gogoanimes.fi/img/icon/logo.png",
   "lang": "en",
