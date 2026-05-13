@@ -4,7 +4,7 @@
 // @author       hualiong
 // @lang         zh-cn
 // @license      MIT
-// @icon         https://aosikazy10.com/favicon.ico
+// @icon         https://aosikazy.com/template/default/image/logo.gif
 // @package      aosikazy.com
 // @type         bangumi
 // @webSite      https://aosikazy.com
