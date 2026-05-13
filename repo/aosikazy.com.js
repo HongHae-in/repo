@@ -23,7 +23,6 @@ export default class extends Extension {
     "aosikazy7.com",
     "aosikazy8.com",
     "aosikazy9.com",
-    "aosikazy10.com",
   ];
 
   dict = new Map([
