@@ -93,32 +93,6 @@
  },
  {
   "author": "vvsolo",
-  "icon": "https://manga18.club/fav.png?v=1",
-  "lang": "all",
-  "license": "MIT",
-  "name": "manga18.club",
-  "nsfw": "true",
-  "package": "club.manga18",
-  "type": "manga",
-  "url": "club.manga18.js",
-  "version": "v0.0.3",
-  "webSite": "https://manga18.club"
- },
- {
-  "author": "vvsolo",
-  "icon": "http://mxsmh01.top/static/images/favicon.ico",
-  "lang": "zh-tw",
-  "license": "MIT",
-  "name": "愛看漫畫",
-  "nsfw": "true",
-  "package": "com.freexcomic",
-  "type": "manga",
-  "url": "com.freexcomic.js",
-  "version": "v0.0.3",
-  "webSite": "http://"
- },
- {
-  "author": "vvsolo",
   "icon": "https://manga18fx.com/images/favicon-96x96.jpg",
   "lang": "en",
   "license": "MIT",
