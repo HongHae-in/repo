@@ -66,18 +66,6 @@
   "webSite": "https://www.yinyuetai.com"
  },
  {
-  "author": "JerukPurut404",
-  "icon": "https://arabsama.net/wp-content/uploads/2023/09/svgexport-34.png",
-  "lang": "ar",
-  "license": "MIT",
-  "name": "Arabsama",
-  "package": "arabsama.net",
-  "type": "bangumi",
-  "url": "arabsama.net.js",
-  "version": "v0.0.1",
-  "webSite": "https://arabsama.net"
- },
- {
   "author": "jason",
   "icon": "https://bfzy.tv/favicon.ico",
   "lang": "zh-cn",
