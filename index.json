@@ -93,20 +93,6 @@
  },
  {
   "author": "vvsolo",
-  "description": "client",
-  "icon": "https://s11.ax1x.com/2024/01/11/pFCMKit.png",
-  "lang": "all",
-  "license": "MIT",
-  "name": "MyIPTV",
-  "nsfw": "false",
-  "package": "client.iptv",
-  "type": "bangumi",
-  "url": "client.iptv.js",
-  "version": "v0.0.6",
-  "webSite": "https://live.fanmingming.com"
- },
- {
-  "author": "vvsolo",
   "icon": "https://everia.club/wp-content/uploads/2023/08/Everiaicon.jpg",
   "lang": "all",
   "license": "MIT",
