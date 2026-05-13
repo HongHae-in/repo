@@ -16,7 +16,6 @@ Miru extensions repository | [Miru App Download](https://github.com/miru-project
 | 次元城动漫 | cycanime.com | v0.1.2 | hualiong | zh-cn | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/cycanime.com.js) |
 | media.ccc.de | de.ccc.media | v0.0.1 | Weiske | en | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/de.ccc.media.js) |
 | 非凡资源 | ffzy.tv | v0.0.2 | hualiong | zh-cn | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/ffzy.tv.js) |
-| FilmyPunjab | filmypunjab.com | v0.0.3 | appdevelpo | hi | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/filmypunjab.com.js) |
 | FlixHQ | flixhq | v0.0.1 | OshekharO | en | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/flixhq.js) |
 | GakiArchives | gakiarchives.com | v0.0.1 | bachig26 | en | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/gakiarchives.com.js) |
 | gimy | gimy.su | v0.0.2 | appdevelpo | zh | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/gimy.su.js) |
