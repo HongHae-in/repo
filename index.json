@@ -208,20 +208,6 @@
   "webSite": "https://cal1.iv.ggtyler.dev/api/v1"
  },
  {
-  "author": "vvsolo",
-  "description": "iptv-org",
-  "icon": "https://avatars.githubusercontent.com/u/55937028?s=200\u0026v=4",
-  "lang": "all",
-  "license": "MIT",
-  "name": "IPTV-ORG",
-  "nsfw": "false",
-  "package": "iptv-org",
-  "type": "bangumi",
-  "url": "iptv-org.js",
-  "version": "v0.0.1",
-  "webSite": "https://iptv-org.github.io/iptv"
- },
- {
   "author": "hualiong",
   "icon": "https://www.iwara.tv/logo.png",
   "lang": "en",
