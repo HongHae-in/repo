@@ -7,7 +7,6 @@ Miru extensions repository | [Miru App Download](https://github.com/miru-project
 |  Name   | Package | Version | Author | Language | Type | Source |
 |  ----   | ---- | --- | ---  | ---  | --- | --- |
 | 360资源 | 360zy.com | v0.0.3 | hualiong | zh-cn | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/360zy.com.js) |
-| AGE动漫 | agedm.org | v0.0.1 | appdevelpo | zh-cn | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/agedm.org.js) |
 | AniLiberty | aniliberty | v0.0.9 | (viridius-hub) | ru | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/aniliberty.js) |
 | AnimeFlv | anime.flv | v0.0.2 | (koikiss-dev) | es | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/anime.flv.js) |
 | Animeazu | animeazu.com | v0.0.1 | JerukPurut404 | pr | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/animeazu.com.js) |
