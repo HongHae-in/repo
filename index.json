@@ -183,19 +183,6 @@
   "webSite": "https://hanime1.me"
  },
  {
-  "author": "hualiong",
-  "icon": "https://heimuer.tv/favicon.ico",
-  "lang": "zh-cn",
-  "license": "MIT",
-  "name": "黑木耳资源",
-  "nsfw": "false",
-  "package": "heimuer.tv",
-  "type": "bangumi",
-  "url": "heimuer.tv.js",
-  "version": "v0.0.2",
-  "webSite": "https://heimuer.tv"
- },
- {
   "author": "OshekharO",
   "icon": "https://s1.cdnimg.me:9000/hentaidexy/opengraph-image.png",
   "lang": "en",
