@@ -4,7 +4,7 @@
 // @author       jason
 // @lang         zh-cn
 // @license      MIT
-// @icon         https://bfzy.tv/favicon.ico
+// @icon         https://bfzy.tv/static/img/logo-text.png
 // @package      bfzy.tv
 // @type         bangumi
 // @webSite      https://bfzy.tv
