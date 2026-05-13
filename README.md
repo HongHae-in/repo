@@ -13,7 +13,6 @@ Miru extensions repository | [Miru App Download](https://github.com/miru-project
 | 暴风资源[高清无水印] | bfzy.tv | v0.0.2 | jason | zh-cn | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/bfzy.tv.js) |
 | girigiri爱动漫 | bgm.girigirilove.com | v0.0.4 | appdevelpo | zh | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/bgm.girigirilove.com.js) |
 | 欧乐影院 | com.olevod.www | v0.0.1 | MiaoMint | zh-cn | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/com.olevod.www.js) |
-| 咕咕影视 | cooing.cc | v0.0.4 | MiaoMint | zh-cn | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/cooing.cc.js) |
 | 次元城动漫 | cycanime.com | v0.1.2 | hualiong | zh-cn | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/cycanime.com.js) |
 | media.ccc.de | de.ccc.media | v0.0.1 | Weiske | en | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/de.ccc.media.js) |
 | 7喜影院 | dev.0n0.miru.7xi | v0.0.7 | MiaoMint | zh-cn | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/dev.0n0.miru.7xi.js) |

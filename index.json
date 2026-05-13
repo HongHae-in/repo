@@ -105,18 +105,6 @@
   "webSite": "https://www.olevod.com"
  },
  {
-  "author": "MiaoMint",
-  "lang": "zh-cn",
-  "license": "MIT",
-  "name": "咕咕影视",
-  "nsfw": "false",
-  "package": "cooing.cc",
-  "type": "bangumi",
-  "url": "cooing.cc.js",
-  "version": "v0.0.4",
-  "webSite": "https://cooing.cc"
- },
- {
   "author": "hualiong",
   "icon": "https://www.cyc-anime.net/upload/site/20240319-1/25e700991446a527804c82a744731b60.png",
   "lang": "zh-cn",
