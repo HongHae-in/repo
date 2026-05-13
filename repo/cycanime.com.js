@@ -4,7 +4,7 @@
 // @author       hualiong
 // @lang         zh-cn
 // @license      MIT
-// @icon         https://www.cyc-anime.net/upload/site/20240319-1/25e700991446a527804c82a744731b60.png
+// @icon         https://www.cycani.org/upload/site/20240319-1/23324d2df3da86834984e523293636cf.png
 // @package      cycanime.com
 // @type         bangumi
 // @webSite      https://www.cyc-anime.net
