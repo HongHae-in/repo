@@ -1,13 +1,13 @@
 // ==MiruExtension==
 // @name         音悦台MTV
-// @version      v0.0.2
+// @version      v0.0.3
 // @author       vvsolo
 // @lang         zh
 // @license      MIT
 // @package      api.yinyuetai
 // @type         bangumi
-// @icon         https://www.yinyuetai.com/images/favicon.ico
-// @webSite      https://video-api.yinyuetai.com
+// @icon         https://webcdn.yinyuetai.com/_nuxt/logo.6c139cfb.png
+// @webSite      https://www.yinyuetai.com
 // @nsfw         false
 // ==/MiruExtension==
 
