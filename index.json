@@ -158,19 +158,6 @@
   "webSite": "https://cj.ffzyapi.com"
  },
  {
-  "author": "bachig26",
-  "icon": "https://gakiarchives.com/images/logo.png",
-  "lang": "en",
-  "license": "MIT",
-  "name": "GakiArchives",
-  "nsfw": "false",
-  "package": "gakiarchives.com",
-  "type": "bangumi",
-  "url": "gakiarchives.com.js",
-  "version": "v0.0.1",
-  "webSite": "https://gakiarchives.com"
- },
- {
   "author": "appdevelpo",
   "icon": "https://gimy.su/favicon.ico",
   "lang": "zh",
