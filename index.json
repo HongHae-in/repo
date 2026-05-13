@@ -183,19 +183,6 @@
   "webSite": "https://hanime1.me"
  },
  {
-  "author": "hualiong",
-  "icon": "https://tse3-mm.cn.bing.net/th/id/OIP-C.PrZFaCYKWBtyufV16WIxhQBRBQ",
-  "lang": "zh-cn",
-  "license": "MIT",
-  "name": "华为吧资源",
-  "nsfw": "false",
-  "package": "huaweiba.live",
-  "type": "bangumi",
-  "url": "huaweiba.live.js",
-  "version": "v0.0.2",
-  "webSite": "https://huaweiba.live"
- },
- {
   "author": "Nazz",
   "icon": "https://vip.idlixofficial.net/wp-content/uploads/2020/06/idlix.png",
   "lang": "id",
