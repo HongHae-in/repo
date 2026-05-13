@@ -6,7 +6,7 @@
 // @license      MIT
 // @package      javhd.icu
 // @type         bangumi
-// @icon         https://javhd.icu/wp-content/uploads/2020/04/javhdicuu-logO.png
+// @icon         https://javhd.icu/wp-content/uploads/2022/05/javhd-icu-banner.png
 // @webSite      https://javhd.icu
 // @nsfw         true
 // ==/MiruExtension==
