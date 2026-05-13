@@ -158,19 +158,6 @@
   "webSite": "https://cj.ffzyapi.com"
  },
  {
-  "author": "OshekharO",
-  "icon": "https://i.postimg.cc/SNhTmxT5/FilmyCab.png",
-  "lang": "hi",
-  "license": "MIT",
-  "name": "FilmyCab",
-  "nsfw": "false",
-  "package": "filmycab",
-  "type": "bangumi",
-  "url": "filmycab.js",
-  "version": "v0.0.2",
-  "webSite": "https://afilmyhub.mom"
- },
- {
   "author": "appdevelpo",
   "icon": "https://111.90.140.97/wp-content/uploads/2022/09/Fliz-Hindi-Movie-Website-02.jpg",
   "lang": "hi",
