@@ -248,18 +248,6 @@
  },
  {
   "author": "OshekharO",
-  "icon": "https://kimcartoon.li/Content/images/favicon.ico",
-  "lang": "en",
-  "license": "MIT",
-  "name": "KimCartoon",
-  "package": "kimcartoon.li",
-  "type": "bangumi",
-  "url": "kimcartoon.li.js",
-  "version": "v0.0.2",
-  "webSite": "https://kimcartoon.li"
- },
- {
-  "author": "OshekharO",
   "icon": "https://kisskh.co/assets/icons/icon-192x192.png",
   "lang": "all",
   "license": "MIT",
