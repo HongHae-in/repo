@@ -26,19 +26,6 @@
   "webSite": "https://jimov-api.vercel.app/"
  },
  {
-  "author": "appdevelpo",
-  "icon": "https://animepahe.ru/web-app-manifest-512x512.png",
-  "lang": "en",
-  "license": "MIT",
-  "name": "Animepahe",
-  "nsfw": "false",
-  "package": "animepahe.ru",
-  "type": "bangumi",
-  "url": "animepahe.ru.js",
-  "version": "v0.0.3",
-  "webSite": "https://animepahe.ru"
- },
- {
   "author": "Nazz",
   "icon": "https://static.animeworld.so/assets/images/favicon/android-icon-192x192.png?4",
   "lang": "it",
