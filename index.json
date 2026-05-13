@@ -184,19 +184,6 @@
  },
  {
   "author": "OshekharO",
-  "icon": "https://s1.cdnimg.me:9000/hentaidexy/opengraph-image.png",
-  "lang": "en",
-  "license": "MIT",
-  "name": "HentaiDexy",
-  "nsfw": "true",
-  "package": "hentaidexy.net",
-  "type": "manga",
-  "url": "hentaidexy.net.js",
-  "version": "v0.0.1",
-  "webSite": "https://backend.hentaidexy.net"
- },
- {
-  "author": "OshekharO",
   "icon": "https://hianime.to/favicon.ico",
   "lang": "en",
   "license": "MIT",
