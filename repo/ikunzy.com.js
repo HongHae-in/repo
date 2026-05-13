@@ -1,14 +1,14 @@
 // ==MiruExtension==
 // @name         iKun资源
-// @version      v0.0.2
+// @version      v0.0.3
 // @author       hualiong
 // @lang         zh-cn
 // @license      MIT
-// @icon         https://ikunzy.org/favicon.ico
+// @icon         http://ikunzy.com/logo.png
 // @package      ikunzy.com
 // @type         bangumi
 // @webSite      https://ikunzy.org
-// @nsfw         true
+// @nsfw         false
 // ==/MiruExtension==
 export default class extends Extension {
   genres = {};
