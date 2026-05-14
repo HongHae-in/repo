@@ -44,6 +44,6 @@ Miru extensions repository | [Miru App Download](https://github.com/miru-project
 | 稀饭动漫 | xfani.com | v0.1.1 | hualiong | zh-cn | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/xfani.com.js) |
 | 丫丫资源[1080无水印] | yayazy.net | v0.0.1 | jason | zh-cn | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/yayazy.net.js) |
 | 樱花资源 | yhzy.cc | v0.0.2 | hualiong | zh-cn | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/yhzy.cc.js) |
-| CC | yinhuadm | v0.0.1 | Mg | zh-cn | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/yinhuadm.js) |
+| 樱花动漫 | yinhuadm | v0.0.1 | Mg | zh-cn | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/yinhuadm.js) |
 | YoMovies | yomovies | v0.0.7 | OshekharO | hi | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/yomovies.js) |
 | 优质资源库 | yzzy.tv | v0.0.2 | hualiong | zh-cn | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/yzzy.tv.js) |
