@@ -464,19 +464,6 @@
  },
  {
   "author": "OshekharO",
-  "icon": "https://res.taotu.org/favicon.ico",
-  "lang": "all",
-  "license": "MIT",
-  "name": "Taotu[Photo]",
-  "nsfw": "true",
-  "package": "taotu",
-  "type": "manga",
-  "url": "taotu.js",
-  "version": "v0.0.1",
-  "webSite": "https://en.taotu.org"
- },
- {
-  "author": "OshekharO",
   "icon": "https://pbs.twimg.com/profile_images/1243623122089041920/gVZIvphd_400x400.jpg",
   "lang": "all",
   "license": "MIT",
