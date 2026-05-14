@@ -6,7 +6,7 @@
 // @license      MIT
 // @package      sakura
 // @type         bangumi
-// @icon         https://cdn.yinghuazy.xyz/webjs/zkk7/statics/img/favicon.ico
+// @icon         https://www.vdm8.com/upload/mxprocms/20260114-1/39413662680be73e6ed7105f37bda70b.jpg
 // @webSite      https://www.vdm8.com
 // ==/MiruExtension==
 
