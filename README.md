@@ -28,7 +28,6 @@ Miru extensions repository | [Miru App Download](https://github.com/miru-project
 | 魔都资源网 | moduzy.com | v0.0.2 | hualiong | zh-cn | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/moduzy.com.js) |
 | MonosChinos | monoschinos | v0.0.1 | OshekharO | es | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/monoschinos.js) |
 | Nimegami | nimegami.id | v0.0.2 | JerukPurut404 | id | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/nimegami.id.js) |
-| Piped | piped.video | v0.0.1 | bethro | all | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/piped.video.js) |
 | ACG.RIP | rip.acg | v0.0.1 | MiaoMint | zh-cn | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/rip.acg.js) |
 | 樱花动漫 | sakura | v0.0.2 | Monster | zh-cn | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/sakura.js) |
 | Samehadaku | samehadaku | v0.0.1 | Nazz | id | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/samehadaku.js) |
