@@ -361,19 +361,6 @@
   "webSite": "https://nimegami.id"
  },
  {
-  "author": "OshekharO",
-  "icon": "https://onejav.com/static/img/onejav.5468a5a7d373.png",
-  "lang": "jp",
-  "license": "MIT",
-  "name": "OneJav",
-  "nsfw": "true",
-  "package": "onejav.com",
-  "type": "bangumi",
-  "url": "onejav.com.js",
-  "version": "v0.0.1",
-  "webSite": "https://onejav.com"
- },
- {
   "author": "Nazz",
   "icon": "https://otakudesu.cloud/wp-content/uploads/2017/06/Logo-1.png",
   "lang": "id",
