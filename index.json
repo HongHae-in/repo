@@ -349,19 +349,6 @@
   "webSite": "https://netfapx.com"
  },
  {
-  "author": "OshekharO",
-  "icon": "https://nhentai.to/favicon.ico",
-  "lang": "all",
-  "license": "MIT",
-  "name": "Nhentai",
-  "nsfw": "true",
-  "package": "nhentai.to",
-  "type": "manga",
-  "url": "nhentai.to.js",
-  "version": "v0.0.3",
-  "webSite": "https://nhentai.to"
- },
- {
   "author": "JerukPurut404",
   "icon": "https://nimegami.id/wp-content/uploads/2018/07/Nimegami-anime.png",
   "lang": "id",
