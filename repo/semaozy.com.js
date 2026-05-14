@@ -4,7 +4,7 @@
 // @author       hualiong
 // @lang         zh-cn
 // @license      MIT
-// @icon         https://semaozy3.com/template/svpro/img/logo.png
+// @icon         https://semaozy2.com/template/svpro/img/logo.png
 // @package      semaozy.com
 // @type         bangumi
 // @webSite      https://semaozy.com
