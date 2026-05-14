@@ -315,7 +315,7 @@
   "lang": "zh-cn",
   "license": "MIT",
   "name": "魔都资源网",
-  "nsfw": "true",
+  "nsfw": "false",
   "package": "moduzy.com",
   "type": "bangumi",
   "url": "moduzy.com.js",
