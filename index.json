@@ -323,19 +323,6 @@
   "webSite": "https://moduzy.vip"
  },
  {
-  "author": "MiaoMint",
-  "description": "https://github.com/Enime-Project/api.enime.moe",
-  "icon": "https://avatars.githubusercontent.com/u/74993083?s=200\u0026v=4",
-  "lang": "all",
-  "license": "MIT",
-  "name": "Enime",
-  "package": "moe.enime",
-  "type": "bangumi",
-  "url": "moe.enime.js",
-  "version": "v0.0.5",
-  "webSite": "https://api.enime.moe"
- },
- {
   "author": "OshekharO",
   "icon": "https://monoschinos2.com/public/img/logo6.png",
   "lang": "es",
