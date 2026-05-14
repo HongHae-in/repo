@@ -6,7 +6,7 @@
 // @license      MIT
 // @package      yinhuadm
 // @type         bangumi
-// @icon         https://oss-cdn.meowa.cn/mxtheme/images/favicon.png
+// @icon         https://cdn.l-il.cn/ajax/lucky/mxpro/images/logos.png
 // @webSite      https://www.yinhuadm.cc/
 // ==/MiruExtension==
 
