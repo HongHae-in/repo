@@ -361,19 +361,6 @@
   "webSite": "https://nimegami.id"
  },
  {
-  "author": "appdevelpo",
-  "description": "more.",
-  "icon": "https://nyaa.si/static/favicon.png",
-  "lang": "en",
-  "license": "MIT",
-  "name": "Nyaa",
-  "package": "nyaa.si",
-  "type": "bangumi",
-  "url": "nyaa.si.js",
-  "version": "v0.0.1",
-  "webSite": "https://nyaa.si"
- },
- {
   "author": "hualiong",
   "icon": "https://s1.imagehub.cc/images/2024/07/18/4cd2cce8076bb8ffeb7c8f8b34c02a31.png",
   "lang": "zh-cn",
