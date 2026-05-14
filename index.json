@@ -678,19 +678,6 @@
   "webSite": "https://yomovies.boats"
  },
  {
-  "author": "appdevelpo",
-  "icon": "https://yugenanime.tv/static/img/favicon-32x32.png",
-  "lang": "en",
-  "license": "MIT",
-  "name": "yugenanime",
-  "nsfw": "true",
-  "package": "yugenanime.tv",
-  "type": "bangumi",
-  "url": "yugenanime.tv.js",
-  "version": "v0.0.1",
-  "webSite": "https://yugenanime.tv"
- },
- {
   "author": "hualiong",
   "icon": "https://yutuzy4.com/template/demo/img/logo.png",
   "lang": "zh-cn",
