@@ -1,5 +1,5 @@
 // ==MiruExtension==
-// @name         樱花动漫 CC
+// @name         樱花动漫
 // @version      v0.0.1
 // @author       Mg
 // @lang         zh-cn
