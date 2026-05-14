@@ -39,7 +39,6 @@ Miru extensions repository | [Miru App Download](https://github.com/miru-project
 | U酷资源网 | ukuzy.com | v0.0.2 | hualiong | zh-cn | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/ukuzy.com.js) |
 | Unimay | unimay.media | v0.0.1 | CakesTwix | uk | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/unimay.media.js) |
 | 影视集合 | vod.api.json.collection | v0.0.3 | Horis | zh-cn | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/vod.api.json.collection.js) |
-| 风车动漫 | windmill | v0.0.1 | Monster | zh-cn | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/windmill.js) |
 | 卧龙资源 | wolongzyw.com | v0.0.2 | hualiong | zh-cn | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/wolongzyw.com.js) |
 | 无尽资源网 | wujinzy.com | v0.0.2 | hualiong | zh-cn | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/wujinzy.com.js) |
 | 稀饭动漫 | xfani.com | v0.1.1 | hualiong | zh-cn | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/xfani.com.js) |
