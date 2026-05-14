@@ -8,7 +8,7 @@
 // @package      moduzy.com
 // @type         bangumi
 // @webSite      https://moduzy.vip
-// @nsfw         true
+// @nsfw         false
 // ==/MiruExtension==
 export default class extends Extension {
   genres = {};
