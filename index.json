@@ -336,19 +336,6 @@
   "webSite": "https://monoschinos2.com"
  },
  {
-  "author": "appdevelpo",
-  "icon": "https://i2.wp.com/107.152.37.223/wp-content/uploads/2020/12/cropped-Movieku-2-32x32.jpg",
-  "lang": "id",
-  "license": "MIT",
-  "name": "Movieku",
-  "nsfw": "false",
-  "package": "movieku.lol",
-  "type": "bangumi",
-  "url": "movieku.lol.js",
-  "version": "v0.0.3",
-  "webSite": "https://movieku.lol"
- },
- {
   "author": "MiaoMint",
   "description": "info",
   "icon": "https://yts.mx/assets/images/website/apple-touch-icon-144x144.png",

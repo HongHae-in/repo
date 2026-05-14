@@ -27,7 +27,6 @@ Miru extensions repository | [Miru App Download](https://github.com/miru-project
 | Mikanani | me.mikanani | v0.0.4 | MiaoMint | zh-cn | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/me.mikanani.js) |
 | 魔都资源网 | moduzy.com | v0.0.2 | hualiong | zh-cn | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/moduzy.com.js) |
 | MonosChinos | monoschinos | v0.0.1 | OshekharO | es | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/monoschinos.js) |
-| Movieku | movieku.lol | v0.0.3 | appdevelpo | id | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/movieku.lol.js) |
 | YTS.mx | mx.yts | v0.0.6 | MiaoMint | all | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/mx.yts.js) |
 | Nimegami | nimegami.id | v0.0.2 | JerukPurut404 | id | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/nimegami.id.js) |
 | Nyaa | nyaa.si | v0.0.1 | appdevelpo | en | bangumi | [Source Code](https://github.com/HongHae-in/repo/blob/main/repo/nyaa.si.js) |
