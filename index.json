@@ -627,19 +627,6 @@
   "webSite": "https://www.xvideos.com"
  },
  {
-  "author": "zj",
-  "icon": "https://caocao15.xyz/upload/site/20230913-1/bf5300cb13794e430bff80aa9d4701bb.png",
-  "lang": "zh-cn",
-  "license": "MIT",
-  "name": "好看的2号",
-  "nsfw": "true",
-  "package": "xyz.xdtv2",
-  "type": "bangumi",
-  "url": "xyz.xdtv2.js",
-  "version": "v0.0.2",
-  "webSite": "https://caocao15.xyz"
- },
- {
   "author": "jason",
   "icon": "https://yayazy3.com/template/yayazy/statics/img/logo.png",
   "lang": "zh-cn",
