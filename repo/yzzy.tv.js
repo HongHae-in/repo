@@ -4,7 +4,7 @@
 // @author       hualiong
 // @lang         zh-cn
 // @license      MIT
-// @icon         https://yzzy.tv/favicon.ico
+// @icon         https://www.1080zyk15.com/template/newstyle/images/logo.gif
 // @package      yzzy.tv
 // @type         bangumi
 // @webSite      https://yzzy.tv
