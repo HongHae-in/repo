@@ -501,19 +501,6 @@
   "webSite": "https://www2.turkish123.org"
  },
  {
-  "author": "wenmoux",
-  "icon": "https://www.uaa.com/assets/uaalogo.7acb1f90.svg",
-  "lang": "zh-cn",
-  "license": "MIT",
-  "name": "UAA视频",
-  "nsfw": "true",
-  "package": "uaa.com",
-  "type": "bangumi",
-  "url": "uaa.com.js",
-  "version": "v0.0.1",
-  "webSite": "https://www.uaa.com/api/video/app/video"
- },
- {
   "author": "hualiong",
   "icon": "https://ukuzy3.com/template/vipzy/images/logo.gif",
   "lang": "zh-cn",
