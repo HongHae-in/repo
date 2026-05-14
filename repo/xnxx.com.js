@@ -6,7 +6,7 @@
 // @license      MIT
 // @package      xnxx.com
 // @type         bangumi
-// @icon         https://static-ss.xnxx-cdn.com/v3/img/skins/xnxx/logo-xnxx.png
+// @icon         https://assets-cdn77.xnxx-cdn.com/v3/img/skins/xnxx/logo-xnxx.png
 // @webSite      https://www.xnxx.com
 // @nsfw         true
 // ==/MiruExtension==
