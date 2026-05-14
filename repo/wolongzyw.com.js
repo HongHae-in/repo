@@ -4,7 +4,7 @@
 // @author       hualiong
 // @lang         zh-cn
 // @license      MIT
-// @icon         https://wolongzy.cc/template/zyz/img/logo.png
+// @icon         https://wolongzyw.com/template/zyz/img/logo.png
 // @package      wolongzyw.com
 // @type         bangumi
 // @webSite      https://wolongzyw.com
