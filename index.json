@@ -549,21 +549,8 @@
   "webSite": "https://"
  },
  {
-  "author": "appdevelpo",
-  "icon": "https://www.wnacg.com/favicon.ico",
-  "lang": "zh-tw",
-  "license": "MIT",
-  "name": "紳士漫畫",
-  "nsfw": "true",
-  "package": "wnacg.com",
-  "type": "manga",
-  "url": "wnacg.com.js",
-  "version": "v0.0.2",
-  "webSite": "https://www.wnacg.com"
- },
- {
   "author": "hualiong",
-  "icon": "https://wolongzy.cc/template/zyz/img/logo.png",
+  "icon": "https://wolongzyw.com/template/zyz/img/logo.png",
   "lang": "zh-cn",
   "license": "MIT",
   "name": "卧龙资源",
