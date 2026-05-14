@@ -475,19 +475,6 @@
   "webSite": "https://api.themoviedb.org/3"
  },
  {
-  "author": "zj",
-  "icon": "https://www.lkp2.top/template/muban8/favicon.ico",
-  "lang": "zh-cn",
-  "license": "MIT",
-  "name": "好看的1号",
-  "nsfw": "true",
-  "package": "top.lkp2.www",
-  "type": "bangumi",
-  "url": "top.lkp2.www.js",
-  "version": "v0.0.1",
-  "webSite": "https://www.lkp2.top/"
- },
- {
   "author": "bachig26",
   "icon": "https://www.topcartoons.tv/wp-content/uploads/logo.png",
   "lang": "en",
